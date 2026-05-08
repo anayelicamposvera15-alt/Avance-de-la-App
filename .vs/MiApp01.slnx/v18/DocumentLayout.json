@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D7E773-B5EC-2465-6F17-0048D1E6AE79}|aplicacion\\aplicacion.csproj|c:\\users\\claudia\\source\\repos\\miapp01\\aplicacion\\casosdeuso\\obtenermesascu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D7E773-B5EC-2465-6F17-0048D1E6AE79}|aplicacion\\aplicacion.csproj|solutionrelative:aplicacion\\casosdeuso\\obtenermesascu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D7E773-B5EC-2465-6F17-0048D1E6AE79}|aplicacion\\aplicacion.csproj|c:\\users\\claudia\\source\\repos\\miapp01\\aplicacion\\mappings\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D7E773-B5EC-2465-6F17-0048D1E6AE79}|aplicacion\\aplicacion.csproj|solutionrelative:aplicacion\\mappings\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|dominio\\dominio.csproj|c:\\users\\claudia\\source\\repos\\miapp01\\dominio\\entidades\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|dominio\\dominio.csproj|solutionrelative:dominio\\entidades\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D7E773-B5EC-2465-6F17-0048D1E6AE79}|aplicacion\\aplicacion.csproj|c:\\users\\claudia\\source\\repos\\miapp01\\aplicacion\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D7E773-B5EC-2465-6F17-0048D1E6AE79}|aplicacion\\aplicacion.csproj|solutionrelative:aplicacion\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|dominio\\dominio.csproj|c:\\users\\claudia\\source\\repos\\miapp01\\dominio\\dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|dominio\\dominio.csproj|solutionrelative:dominio\\dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D7E773-B5EC-2465-6F17-0048D1E6AE79}|aplicacion\\aplicacion.csproj|c:\\users\\claudia\\source\\repos\\miapp01\\aplicacion\\dtos\\mesadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D7E773-B5EC-2465-6F17-0048D1E6AE79}|aplicacion\\aplicacion.csproj|solutionrelative:aplicacion\\dtos\\mesadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D7E773-B5EC-2465-6F17-0048D1E6AE79}|aplicacion\\aplicacion.csproj|c:\\users\\claudia\\source\\repos\\miapp01\\aplicacion\\dtos\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D7E773-B5EC-2465-6F17-0048D1E6AE79}|aplicacion\\aplicacion.csproj|solutionrelative:aplicacion\\dtos\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|dominio\\dominio.csproj|c:\\users\\claudia\\source\\repos\\miapp01\\dominio\\entidades\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|dominio\\dominio.csproj|solutionrelative:dominio\\entidades\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198ECC1B-A6CA-57C8-EFAD-8AD1C72B145E}|MiApp01\\MiApp01.csproj|c:\\users\\claudia\\source\\repos\\miapp01\\miapp01\\vistasmodelos\\demomesasvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198ECC1B-A6CA-57C8-EFAD-8AD1C72B145E}|MiApp01\\MiApp01.csproj|solutionrelative:miapp01\\vistasmodelos\\demomesasvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198ECC1B-A6CA-57C8-EFAD-8AD1C72B145E}|MiApp01\\MiApp01.csproj|c:\\users\\claudia\\source\\repos\\miapp01\\miapp01\\vistas\\vistademov.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{198ECC1B-A6CA-57C8-EFAD-8AD1C72B145E}|MiApp01\\MiApp01.csproj|solutionrelative:miapp01\\vistas\\vistademov.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198ECC1B-A6CA-57C8-EFAD-8AD1C72B145E}|MiApp01\\MiApp01.csproj|c:\\users\\claudia\\source\\repos\\miapp01\\miapp01\\vistas\\vistademov.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198ECC1B-A6CA-57C8-EFAD-8AD1C72B145E}|MiApp01\\MiApp01.csproj|solutionrelative:miapp01\\vistas\\vistademov.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dominio.csproj",
+              "DocumentMoniker": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\dominio\\dominio.csproj",
+              "RelativeDocumentMoniker": "dominio\\dominio.csproj",
+              "ToolTip": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\dominio\\dominio.csproj",
+              "RelativeToolTip": "dominio\\dominio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-05T16:13:19.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\aplicacion\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "aplicacion\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\aplicacion\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "aplicacion\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:09:58.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\aplicacion\\Mappings\\MappingExtensions.cs",
+              "RelativeDocumentMoniker": "aplicacion\\Mappings\\MappingExtensions.cs",
+              "ToolTip": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\aplicacion\\Mappings\\MappingExtensions.cs",
+              "RelativeToolTip": "aplicacion\\Mappings\\MappingExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:10:37.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObtenerMesasCU.cs",
+              "DocumentMoniker": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\aplicacion\\CasosDeUso\\ObtenerMesasCU.cs",
+              "RelativeDocumentMoniker": "aplicacion\\CasosDeUso\\ObtenerMesasCU.cs",
+              "ToolTip": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\aplicacion\\CasosDeUso\\ObtenerMesasCU.cs",
+              "RelativeToolTip": "aplicacion\\CasosDeUso\\ObtenerMesasCU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:09:28.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mesa.cs",
+              "DocumentMoniker": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\dominio\\Entidades\\Mesa.cs",
+              "RelativeDocumentMoniker": "dominio\\Entidades\\Mesa.cs",
+              "ToolTip": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\dominio\\Entidades\\Mesa.cs",
+              "RelativeToolTip": "dominio\\Entidades\\Mesa.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:47:56.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MesaDto.cs",
+              "DocumentMoniker": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\aplicacion\\DTOs\\MesaDto.cs",
+              "RelativeDocumentMoniker": "aplicacion\\DTOs\\MesaDto.cs",
+              "ToolTip": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\aplicacion\\DTOs\\MesaDto.cs",
+              "RelativeToolTip": "aplicacion\\DTOs\\MesaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T15:24:12.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\aplicacion\\DTOs\\PedidoDto.cs",
+              "RelativeDocumentMoniker": "aplicacion\\DTOs\\PedidoDto.cs",
+              "ToolTip": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\aplicacion\\DTOs\\PedidoDto.cs",
+              "RelativeToolTip": "aplicacion\\DTOs\\PedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T13:37:31.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\dominio\\Entidades\\Pedido.cs",
+              "RelativeDocumentMoniker": "dominio\\Entidades\\Pedido.cs",
+              "ToolTip": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\dominio\\Entidades\\Pedido.cs",
+              "RelativeToolTip": "dominio\\Entidades\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T13:31:48.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VistaDemoV.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\MiApp01\\Vistas\\VistaDemoV.xaml.cs",
+              "RelativeDocumentMoniker": "MiApp01\\Vistas\\VistaDemoV.xaml.cs",
+              "ToolTip": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\MiApp01\\Vistas\\VistaDemoV.xaml.cs",
+              "RelativeToolTip": "MiApp01\\Vistas\\VistaDemoV.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:58:00.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VistaDemoV.xaml",
+              "DocumentMoniker": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\MiApp01\\Vistas\\VistaDemoV.xaml",
+              "RelativeDocumentMoniker": "MiApp01\\Vistas\\VistaDemoV.xaml",
+              "ToolTip": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\MiApp01\\Vistas\\VistaDemoV.xaml",
+              "RelativeToolTip": "MiApp01\\Vistas\\VistaDemoV.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-24T13:11:17.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DemoMesasVM.cs",
+              "DocumentMoniker": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\MiApp01\\VistasModelos\\DemoMesasVM.cs",
+              "RelativeDocumentMoniker": "MiApp01\\VistasModelos\\DemoMesasVM.cs",
+              "ToolTip": "C:\\Users\\CLAUDIA\\source\\repos\\MiApp01\\MiApp01\\VistasModelos\\DemoMesasVM.cs",
+              "RelativeToolTip": "MiApp01\\VistasModelos\\DemoMesasVM.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:26:14.9Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

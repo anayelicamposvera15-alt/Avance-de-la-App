@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="aplicacion/aplicacion.csproj" />
+  <Project Path="dominio/dominio.csproj" />
+  <Project Path="infraestructura/infraestructura.csproj" />
+  <Project Path="MiApp01/MiApp01.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>

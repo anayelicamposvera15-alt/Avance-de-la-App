@@ -1,0 +1,11 @@
+C:\Users\CLAUDIA\source\repos\MiApp01\infraestructura\bin\Debug\net10.0\infraestructura.deps.json
+C:\Users\CLAUDIA\source\repos\MiApp01\infraestructura\bin\Debug\net10.0\infraestructura.dll
+C:\Users\CLAUDIA\source\repos\MiApp01\infraestructura\bin\Debug\net10.0\infraestructura.pdb
+C:\Users\CLAUDIA\source\repos\MiApp01\infraestructura\obj\Debug\net10.0\infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLAUDIA\source\repos\MiApp01\infraestructura\obj\Debug\net10.0\infraestructura.AssemblyInfoInputs.cache
+C:\Users\CLAUDIA\source\repos\MiApp01\infraestructura\obj\Debug\net10.0\infraestructura.AssemblyInfo.cs
+C:\Users\CLAUDIA\source\repos\MiApp01\infraestructura\obj\Debug\net10.0\infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\CLAUDIA\source\repos\MiApp01\infraestructura\obj\Debug\net10.0\infraestructura.dll
+C:\Users\CLAUDIA\source\repos\MiApp01\infraestructura\obj\Debug\net10.0\refint\infraestructura.dll
+C:\Users\CLAUDIA\source\repos\MiApp01\infraestructura\obj\Debug\net10.0\infraestructura.pdb
+C:\Users\CLAUDIA\source\repos\MiApp01\infraestructura\obj\Debug\net10.0\ref\infraestructura.dll

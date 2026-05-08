@@ -1,0 +1,15 @@
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\bin\Debug\net10.0\aplicacion.deps.json
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\bin\Debug\net10.0\aplicacion.dll
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\bin\Debug\net10.0\aplicacion.pdb
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\obj\Debug\net10.0\aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\obj\Debug\net10.0\aplicacion.AssemblyInfoInputs.cache
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\obj\Debug\net10.0\aplicacion.AssemblyInfo.cs
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\obj\Debug\net10.0\aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\obj\Debug\net10.0\aplicacion.dll
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\obj\Debug\net10.0\refint\aplicacion.dll
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\obj\Debug\net10.0\aplicacion.pdb
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\obj\Debug\net10.0\ref\aplicacion.dll
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\bin\Debug\net10.0\dominio.dll
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\bin\Debug\net10.0\dominio.pdb
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\obj\Debug\net10.0\aplicacion.csproj.AssemblyReference.cache
+C:\Users\CLAUDIA\source\repos\MiApp01\aplicacion\obj\Debug\net10.0\aplicacion.csproj.Up2Date
